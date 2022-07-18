@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165360903191",
+    "project_id": "wasseli-e44fa",
+    "storage_bucket": "wasseli-e44fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165360903191:android:12841a6424bfc96df32852",
+        "android_client_info": {
+          "package_name": "com.wasseli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165360903191-ogc7ad9eoi47rakcusuv0912g2opeb9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4qHNynXza436ENsqYewy3H9WmIgwJBME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165360903191-ogc7ad9eoi47rakcusuv0912g2opeb9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

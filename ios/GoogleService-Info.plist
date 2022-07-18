@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>165360903191-26jsgmoca13rtd9fq6lvfccf0oo5uqg9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.165360903191-26jsgmoca13rtd9fq6lvfccf0oo5uqg9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGiyAKNdbbj7e-IramRiaPNr7C5adi8T8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>165360903191</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wasseli</string>
+	<key>PROJECT_ID</key>
+	<string>wasseli-e44fa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wasseli-e44fa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:165360903191:ios:d39e45e3950df864f32852</string>
+</dict>
+</plist>
